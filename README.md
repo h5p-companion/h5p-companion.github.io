@@ -1,2 +1,2 @@
-# h5ps.github.io
+# h5p-companion.github.io
 Pages
