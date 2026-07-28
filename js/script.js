@@ -1,5 +1,5 @@
 /* ==========================================================================
-   H5P Suite - JavaScript Functionality
+   H5P Companion - JavaScript Functionality
    Theme Toggle & Interactivity
    ========================================================================== */
 
@@ -9,11 +9,11 @@ document.addEventListener('DOMContentLoaded', () => {
 
 /**
  * Initializes Light/Dark theme toggle with localStorage persistence.
- * Storage key: 'h5p-suite-theme'
+ * Storage key: 'h5p-companion-theme'
  * Default: 'light'
  */
 function initThemeToggle() {
-    const STORAGE_KEY = 'h5p-suite-theme';
+    const STORAGE_KEY = 'h5p-companion-theme';
     const htmlElement = document.documentElement;
     const themeToggleBtn = document.getElementById('theme-toggle');
 

@@ -1,5 +1,5 @@
 /* ==========================================================================
-   H5P Suite - Design System & Modern Stylesheet (Portal Hub)
+   H5P Companion - Design System & Modern Stylesheet (Portal Hub)
    Theme: Light (default) with Dark Mode Toggle Support
    ========================================================================== */
 
@@ -593,8 +593,8 @@ a:hover {
 }
 
 .team-card-avatar {
-    width: 50px;
-    height: 50px;
+    width: 100px;
+    height: 100px;
     border-radius: 50%;
     object-fit: cover;
     border: 2px solid var(--primary);

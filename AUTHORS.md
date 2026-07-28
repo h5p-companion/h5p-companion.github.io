@@ -1,3 +1,3 @@
-# Autores e Contribuidores - H5P Suite
+# Autores e Contribuidores - H5P Companion
 
-- **Kelson da Costa Medeiros** <kelson.medeiros@ifrn.edu.br> - *Tech Leader & Lead Developer*
+- **Kelson da Costa Medeiros** <kelsoncm@gmail.com> *Tech Leader*
